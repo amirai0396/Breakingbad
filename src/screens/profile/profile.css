@@ -1,0 +1,20 @@
+.profile {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile .back {
+  width: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.ant-image-img {
+  border-radius: 28px;
+}
